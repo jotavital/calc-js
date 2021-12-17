@@ -41,10 +41,6 @@ body {
     min-height: 45px;
 }
 
-#ponto-calculadora {
-    font-size: 8px;
-}
-
 .bg-ultra-light-gray {
     background-color: rgba(249, 249, 249, 255);
 }
